@@ -8,12 +8,7 @@ cs = 0
 ds = 0
 es = 0
 fs = 0
-Ap = 1
-bp = 1
-cp = 1
-dp = 1
-ep = 1
-fp = 1
+
 x = 1
 
 RollNum = 1
